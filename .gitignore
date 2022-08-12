@@ -1,0 +1,7 @@
+.idea/
+api
+api.exe
+/upload
+/vendor
+
+ .DS_Store
